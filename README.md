@@ -8,6 +8,8 @@ O repositório está organizado da seguinte forma:
 
 - **[events-cead-api-v2](./events-cead-api-v2)**: Backend (Laravel 10+) que fornece a API REST para gerenciamento de salas, pessoas e eventos.
 - **[events-cead-frontend](./events-cead-frontend)**: Frontend (Next.js 15+) utilizando React, Tailwind CSS e integração com a API via Rewrites.
+- **[setup.sql](./setup.sql)**: Script SQL para criação do banco de dados e usuário.
+- **[diagrama_er.md](./diagrama_er.md)**: Documentação técnica do modelo de dados em formato Mermaid.
 
 ## 🚀 Como Executar
 
